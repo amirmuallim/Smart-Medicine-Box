@@ -8,5 +8,4 @@ Such carelessness seen in the case of taking medicines might lead to results whi
 This paper describes how with the help of smart box will an individual be able to take his medicines without any external human assistance.​
 
 # Circuit Design 
-![Screenshot 2023-07-30 145419](https://github.com/amirmuallim/Smart-Medicine-Box/assets/84015032/0dd16f85-70d7-46f0-89ec-f9a54e9c39eb)
-
+![Screenshot 2023-07-30 145641](https://github.com/amirmuallim/Smart-Medicine-Box/assets/84015032/56bf76c8-34cd-495f-ac93-307bbf6b6c04)
